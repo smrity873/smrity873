@@ -104,9 +104,12 @@
 
 ### 📈 GitHub Contributions:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrity873&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/smrity873/smrity873/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/smrity873/smrity873/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/smrity873/smrity873/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ### 💳 DevCard:
 
