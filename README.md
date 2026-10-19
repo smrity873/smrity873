@@ -1,6 +1,6 @@
 <!-- 1. Your Custom Design Banner -->
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Custom Banner" />
+  <img src="https://github.com/smrity873/smrity873/blob/main/github_banner.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Custom Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mst Shrabony Akter</h1>
