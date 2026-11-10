@@ -17,7 +17,7 @@
 - 💬 Ask me about **Frontend Development**.
 - 🌐 Explore My Portfolio (Coming Soon)
 - 📝 I regularly write articles on LinkedIn.
-- 📫 Feel free to reach out to me: [Email](mailto:yourmail@gmail.com)
+- 📫 Feel free to reach out to me: [Email](mailto:shrabonysmrity873@gmail.com)
 - 📍 Based in Bangladesh
 
 ---
